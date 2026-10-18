@@ -1,20 +1,13 @@
 # Hi, I'm Larry
 
-Australian software engineer based in London, UK. Currently working at [CO2 AI](https://www.co2ai.com/) as a mid-level software engineer.
+I'm an Australian software engineer in London and a senior engineer at [CO2 AI](https://www.co2ai.com/). I build AI features and work on developer experience, helping the team adapt how we build software with coding agents.
 
-I'm interested in how AI tools are changing the way we build software. Most of my side projects lately are experiments in that space — figuring out how coding agents can fit into real workflows.
+At work I use Python/FastAPI, TypeScript/React and Kotlin/Spring. Here you'll find smaller experiments in running agents and connecting them to the places people already work.
 
-## What I'm working on
+## Selected experiments
 
-- **[agent-acp-bridge](https://github.com/larryhudson/agent-acp-bridge)** — Talk to Claude Code and other coding agents from Slack, GitHub, and Linear. Uses the Agent Communication Protocol to bridge external services with local dev agents.
-- **[ralph-loop](https://github.com/larryhudson/ralph-loop)** — My minimal implementation of [Geoffrey Huntley's ralph](https://ghuntley.com/ralph/) idea — run Claude Code in an autonomous loop for longer tasks.
-- **[pymom](https://github.com/larryhudson/pymom)** — A Docker-sandboxed AI agent built with pydantic-ai, based on [Mario Zechner's mom bot](https://github.com/badlogic/pi-mono/tree/main/packages/mom). You can do a lot with only 4 tools!
-- **[claude-code-dev-starter](https://github.com/larryhudson/claude-code-dev-starter)** — Starter project with Claude Code dev environment tricks, including hooks for automatic linting.
+- [agent-acp-bridge](https://github.com/larryhudson/agent-acp-bridge): connect coding agents to Slack, GitHub and Linear.
+- [email-assistant](https://github.com/larryhudson/email-assistant): email-based AI assistants with separate sandboxes, memory and budgets.
+- [dev-agent](https://github.com/larryhudson/dev-agent): run browser checks in isolated workspaces, then let an agent investigate and produce a patch for human review.
 
-## Day job
-
-At CO2 AI, I work across the stack — Python/FastAPI backend, TypeScript/React frontend, Docker, CircleCI. I'm helping the team adopt AI coding tools and think about how to ship faster with them.
-
-## Get in touch
-
-- Blog: [larryhudson.io](https://larryhudson.io)
+[Website](https://larryhudson.io) · [LinkedIn](https://www.linkedin.com/in/larryhudson4/)
